@@ -116,7 +116,7 @@ pull和push的简写方式:
 1. git remote add origin git@github.com:binxin1994/heime.git（远程代码库地址）
 2.git push origin master
 3.git push
-
+4.
 
 
 
